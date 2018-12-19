@@ -1,0 +1,6 @@
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Common\bin\Debug\QuangPhuShop.Common.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Common\bin\Debug\QuangPhuShop.Common.pdb
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Common\obj\Debug\QuangPhuShop.Common.csprojAssemblyReference.cache
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Common\obj\Debug\QuangPhuShop.Common.csproj.CoreCompileInputs.cache
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Common\obj\Debug\QuangPhuShop.Common.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Common\obj\Debug\QuangPhuShop.Common.pdb

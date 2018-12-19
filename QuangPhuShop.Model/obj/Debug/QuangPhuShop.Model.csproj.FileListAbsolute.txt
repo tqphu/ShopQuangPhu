@@ -1,0 +1,12 @@
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\bin\Debug\QuangPhuShop.Model.dll.config
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\bin\Debug\QuangPhuShop.Model.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\bin\Debug\QuangPhuShop.Model.pdb
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\bin\Debug\EntityFramework.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\bin\Debug\EntityFramework.xml
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\obj\Debug\QuangPhuShop.Model.csprojAssemblyReference.cache
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\obj\Debug\QuangPhuShop.Model.csproj.CoreCompileInputs.cache
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\obj\Debug\QuangPhuShop.Model.csproj.CopyComplete
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\obj\Debug\QuangPhuShop.Model.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Model\obj\Debug\QuangPhuShop.Model.pdb

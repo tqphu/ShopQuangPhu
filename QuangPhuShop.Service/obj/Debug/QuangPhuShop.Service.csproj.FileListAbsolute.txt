@@ -1,0 +1,17 @@
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Service.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Service.pdb
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Common.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Data.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Model.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\EntityFramework.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Common.pdb
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Data.pdb
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Data.dll.config
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Model.pdb
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\QuangPhuShop.Model.dll.config
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\bin\Debug\EntityFramework.xml
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\obj\Debug\QuangPhuShop.Service.csprojAssemblyReference.cache
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\obj\Debug\QuangPhuShop.Service.csproj.CoreCompileInputs.cache
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\obj\Debug\QuangPhuShop.Service.csproj.CopyComplete
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\obj\Debug\QuangPhuShop.Service.dll
+E:\Tai lieu DA\QuangPhuShop\QuangPhuShop.Service\obj\Debug\QuangPhuShop.Service.pdb
